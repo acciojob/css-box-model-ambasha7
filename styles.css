@@ -12,7 +12,8 @@
 	background-color:lightblue;
 } */
 .content{
-	border:15px solid black;
+	border:15px solid blue;
+	margin:20px;
 	text-align:center;
 	width:300px;
 	padding:50px lightblue;
